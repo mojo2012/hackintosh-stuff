@@ -15,10 +15,10 @@ Copy the files from `kexts` to `/Library/Extensions`. Make sure to use a proper 
 Add boot arguments:
 
 ```
-sudo nvram boot-args="kext-dev-mode=1 -cdfon -enable-hdmi20 -cdfbeta -igdvmtbeta -igdmvtdbg -cdfdbg -igfxdbg -igfxmlr enable-dpcd-max-link-rate-fix enable-hdmi-dividers-fix"
+sudo nvram boot-args="kext-dev-mode=1 -cdfon -enable-hdmi20 -cdfbeta"
 ```
 
-> Enables 4k 60Hz patches for Intel
+> Enables 4k 60Hz patches for Intel and NVidia (with web drivers)
 
 ## Tools
 * FixEDID to transform EDID binary file to proper display overrides plist (only inject binary edid)
