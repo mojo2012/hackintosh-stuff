@@ -6,6 +6,7 @@
 ## Required kexts
 * Whatevergreen
 * LiLu
+* Optional: DisplayMergeNub (probably not needed)
 
 > Patches CoreDisplay Driver to enable 60Hz over DP-to-HDMI adapter
 

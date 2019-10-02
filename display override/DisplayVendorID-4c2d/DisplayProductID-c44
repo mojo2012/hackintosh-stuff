@@ -13,5 +13,23 @@
 	ZAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 	iA==
 	</data>
+	<key>scale-resolutions</key>
+	<array>
+		<data>
+		AAAPAAAACHAAAAABACAAAA==
+		</data>
+		<data>
+		AAAMgAAABwgAAAABACAAAA==
+		</data>
+		<data>
+		AAAKAAAABaAAAAABACAAAA==
+		</data>
+		<data>
+		AAAHgAAAB1gAAAABACAAAA==
+		</data>
+		<data>
+		AAAFAAAAAtAAAAABACAAAA==
+		</data>
+	</array>
 </dict>
 </plist>
